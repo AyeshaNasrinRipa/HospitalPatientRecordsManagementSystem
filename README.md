@@ -1,0 +1,4 @@
+# HospitalPatientRecordsManagementSystem
+The Hospital's Patient Records Management System is a simple PHP project. It is a web-based program that offers a hospital an automated system for keeping and managing patient records. The management can enter the patient's admission, diagnosis, and treatment information here. The data are stored using MySQL Database. With the help of the Admin Template and Bootstrap Framework, it features an easy-to-use user interface.
+
+The Patient Records Management System at the Simple Hospital features two different user roles: Administrator and Staff. The essential lists in the system, such the list of rooms, are managed by the admin users. Users get access to all features and functionalities that the system possesses. The staff users can only manage the list of doctors and patient records because of their restricted access.
